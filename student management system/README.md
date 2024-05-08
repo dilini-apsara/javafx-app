@@ -4,7 +4,7 @@ It allows users to add new students, view existing student details, and delete s
 records. The application uses PostgreSQL as the backend database for storing student 
 information.
 
-![image.png](/assets/img.png)
+![image.png](/assets/image.png)
 
 
 ### FEATURES
@@ -24,3 +24,6 @@ information.
 
 ### VERSION
 1.0.0
+
+### LICENSE
+This project is licensed under [WTFPL](https://choosealicense.com/licenses/wtfpl/)
